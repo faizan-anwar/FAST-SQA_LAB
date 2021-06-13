@@ -3,4 +3,4 @@ REPOSITORY = 'Review Layout'
 REPOSITORY_TYPE = "git"
 BRANCH = "main"
 TRACKING_BRANCH = "origin/main"
-LAND_DEST_BRANCH = "main
+LAND_DEST_BRANCH = "main"
